@@ -64,8 +64,8 @@ h1, h2, h3, h4, h5 {
 .info-list, .progress-list{
     list-style: none;
     padding-left: 0px;
-    font-size: 18px;
-    line-height: 1.8;
+    font-size: 17px;
+    line-height: 1.7;
 }
 
 .stack-list {
@@ -130,8 +130,8 @@ footer {
 }
 
 p {
-	line-height: 1.7;
-	font-size: 18px;
+	line-height: 1.6;
+	font-size: 17px;
 }
 
 progress {
